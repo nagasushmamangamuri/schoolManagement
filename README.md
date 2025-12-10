@@ -2,6 +2,9 @@
 
 A modern, responsive school management system built with React, TypeScript, and Material-UI. **Now supports multiple schools** with dynamic content management through Firebase integration and URL-based school identification.
 
+# For Demo please visit [SchoolManagement](https://schooldetailsinfo.netlify.app/school/riverside_academy/home)
+
+
 ## ✨ Features
 
 - 🏫 **Multi-Tenant Architecture**: Support unlimited schools with unique URLs
