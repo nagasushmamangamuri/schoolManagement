@@ -31,7 +31,7 @@ A modern, responsive school management system built with React, TypeScript, and 
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/nagendrababuputtigampala/school-ui.git
+git clone https://github.com/nagasushmamangamuri
 cd school-ui
 npm install
 cp .env.example .env
@@ -51,7 +51,7 @@ npm start
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/nagendrababuputtigampala/school-ui.git
+git clone https://github.com/nagasushmamangamuri
 cd school-ui
 npm install
 ```
