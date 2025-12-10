@@ -1,0 +1,158 @@
+{
+  "Riverside Academy": {
+    "schoolInfo": {
+      "id": "riverside-academy",
+      "name": "Riverside Academy",
+      "slug": "riverside-academy",
+      "logo": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b"
+    },
+    "homePage": {
+      "heroSection": {
+        "welcomeTitle": "Welcome to Riverside Academy",
+        "welcomeSubtitle": "Where Learning Meets Innovation",
+        "heroImages": [
+          "https://images.unsplash.com/photo-1562774053-701939374585",
+          "https://images.unsplash.com/photo-1497486751825-1233686d5d80",
+          "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b"
+        ]
+      },
+      "principalSection": {
+        "name": "Ms. Amanda Foster",
+        "message": "At Riverside Academy, we believe in the power of personalized education. Each student's unique talents and interests guide our approach to learning, ensuring every graduate is prepared for their next adventure.",
+        "image": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0"
+      },
+      "statisticsSection": {
+        "yearEstablished": "2009",
+        "studentsCount": "850",
+        "teachersCount": "62",
+        "successRate": "95%"
+      },
+      "timelineSection": [
+        {
+          "year": "2009",
+          "title": "Academy Established",
+          "description": "Riverside Academy opened with innovative teaching methodologies"
+        },
+        {
+          "year": "2012",
+          "title": "Arts Center",
+          "description": "Inaugurated the performing arts center and music studios"
+        },
+        {
+          "year": "2016",
+          "title": "Sports Excellence",
+          "description": "Built new sports complex and achieved state championship in multiple sports"
+        },
+        {
+          "year": "2019",
+          "title": "Technology Integration",
+          "description": "Launched 1:1 laptop program and smart classroom initiative"
+        },
+        {
+          "year": "2022",
+          "title": "Green Campus",
+          "description": "Achieved carbon neutral status with solar panels and sustainability programs"
+        }
+      ]
+    },
+    "achievementsPage": [
+      {
+        "title": "STEM Innovation Challenge Winners",
+        "description": "Our robotics club earned first place in the state-level STEM Innovation Challenge.",
+        "year": "2024",
+        "level": "state",
+        "category": "academic",
+        "award": "First Place",
+        "images": [
+          "https://images.unsplash.com/photo-1581093588401-7b4d2f16f0f5",
+          "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+        ]
+      }
+    ],
+    "announcementsPage": [
+      {
+        "title": "Mid-Term Examination Schedule Released",
+        "content": "The mid-term examination schedule for all grades has been published. Exams will commence from March 25th and conclude on April 5th. Students are advised to collect their hall tickets from their respective class teachers.",
+        "category": "exam",
+        "audience": "students",
+        "date": "2024-03-10",
+        "endDate": "2024-04-05",
+        "isPinned": true,
+        "isUrgent": true,
+        "author": "Academic Office",
+        "tags": ["examination", "schedule", "hall ticket", "study"]
+      }
+    ],
+    "staffPage": [
+      {
+        "name": "Ms. Amanda Foster",
+        "position": "Principal",
+        "department": "administration",
+        "email": "a.foster@riverside-academy.org",
+        "phone": "+1 (555) 987-6543",
+        "education": "M.Ed. Educational Leadership",
+        "experience": "12 years in education",
+        "specializations": [
+          "Innovative Teaching",
+          "Environmental Education",
+          "Arts Integration"
+        ],
+        "image": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0"
+      }
+    ],
+    "alumniPage": [
+      {
+        "name": "Maya Patel",
+        "graduationYear": "2015",
+        "currentPosition": "Environmental Policy Director",
+        "company": "Green Future Initiative",
+        "location": "Portland, OR",
+        "industry": "environmental",
+        "image": "https://images.unsplash.com/photo-1580489944761-15a19d654956",
+        "linkedIn": "linkedin.com/in/mayapatel"
+      },
+      {
+        "name": "David Chen",
+        "graduationYear": "2018",
+        "currentPosition": "Digital Artist & Filmmaker",
+        "company": "Creative Media Studios",
+        "location": "Los Angeles, CA",
+        "industry": "arts",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+        "linkedIn": "linkedin.com/in/davidchen"
+      }
+    ],
+    "galleryPage": [
+      {
+        "title": "Graduation Ceremony Highlights",
+        "description": "A video montage of our memorable graduation ceremony with speeches, awards, and celebrations.",
+        "type": "video",
+        "category": "events",
+        "date": "2023-06-15",
+        "images": [
+          "https://images.unsplash.com/photo-1686213011624-8578b598ef0f"
+        ],
+        "videoUrl": ["https://www.youtube.com/watch?v=examplevideo"]
+      }
+    ],
+    "contactPage": {
+      "address": "456 River Road, Riverside, RS 67890",
+      "phone": ["+1 (555) 987-6543", "+1 (555) 987-6544"],
+      "email": ["admissions@riverside-academy.org", "info@riverside-academy.org"],
+      "officeHours": [
+        "Mon-Fri: 7:30 AM - 4:30 PM",
+        "Sat: 8:00 AM - 1:00 PM"
+      ],
+      "whatsApp": "+1 (555) 987-6500",
+      "latitude": 34.0522,
+      "longitude": -118.2437,
+      "socialMedia": {
+        "facebook": "https://facebook.com/riversideacademy",
+        "twitter": "https://twitter.com/riversideacad",
+        "instagram": "https://instagram.com/riversideacademy",
+        "linkedin": "https://linkedin.com/school/riverside-academy"
+      }
+    }
+  }
+
+}
